@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
     <Head>
-     <title>Home |IG News</title>
+     <title>Home | IG News</title>
     </Head>
     
     <main className={styles.contentContainer}>
